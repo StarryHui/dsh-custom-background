@@ -1,0 +1,7 @@
+# dsh-background bundle patch: inserts the dual-face background plugin row.
+# Host half registers the `background` settings namespace, serves the background
+# CSS through the index tap, and provides the gallery image route; the browser
+# half registers the 「背景」 settings section (after agent presets).
+- insert:
+    - id: dsh-background
+      name: '@starryhui/dsh-background'
