@@ -40,8 +40,8 @@ dsh plugin --profile web add @starryhui/dsh-background@latest
 
 ```sh
 # 1. 克隆仓库
-git clone https://github.com/starryhui/dsh-background.git
-cd dsh-background
+git clone https://github.com/StarryHui/dsh-custom-background.git
+cd dsh-custom-background
 
 # 2. 安装到 web profile（lib/ 已随仓库提交，无需本地构建）
 dsh plugin --profile web add link:$(pwd)
