@@ -12,7 +12,7 @@ vibe coding初作品，自定义 DeepSeek Harness（DSH）WebUI 背景插件。�
 - **实时生效**：所有调整即时刷新背景；配置持久化在 settings.yaml 的 `background` 命名空间，重启不丢。  
 
 ![主页面](images/zhuyemian.png)
-![设置页面](shezhiyemian.png)
+![设置页面](images/shezhiyemian.png)
 
 ## 快速开始
 
